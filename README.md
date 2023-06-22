@@ -4,7 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Back-end Developer
 ------------------
 
-I am a highly motivated and skilled Information Technology graduate from the University of Transport in Ho Chi Minh City. My academic journey was mostly focus on Java based programing but I also gaining a solid foundation in various aspects of the field like SQL, HTML, Javascript,... During my recent 6-month internship at HCL Tech Company, I had the opportunity to delve deeper into back-end development. I gained hands-on experience in building back-end applications using Hibernate, API integration, and Restful web applications with Spring Framework, Spring Boot. Additionally, I honed my skills in front-end development, particularly in React, where I built components, designed user interfaces, and worked with user events, hooks, and state management. In pursuit of continuous learning and personal growth, I have further expanded my expertise by exploring back-end development with Node.js. Through personal full-stack projects, I successfully built applications using both Spring Boot and React, as well as Node.js and React, showcasing my ability to design and develop robust and responsive full-stack solutions.
+I am a highly motivated and skilled Information Technology graduate from the University of Transport in Ho Chi Minh City. My academic journey was mostly focus on Java based programing but I also gaining a solid foundation in various aspects of the field like SQL, HTML, Javascript,... 
+
+During my recent 6-month internship at HCL Tech Company, I had the opportunity to delve deeper into back-end development. I gained hands-on experience in building back-end applications using Hibernate, API integration, and Restful web applications with Spring Framework, Spring Boot. Additionally, I honed my skills in front-end development, particularly in React, where I built components, designed user interfaces, and worked with user events, hooks, and state management. 
+
+In pursuit of continuous learning and personal growth, I have further expanded my expertise by exploring back-end development with Node.js. Through personal full-stack projects, I successfully built applications using both Spring Boot and React, as well as Node.js and React, showcasing my ability to design and develop robust and responsive full-stack solutions.
 
 *   🌍  I'm based in Ho Chi Minh City
 *   🖥️  See my portfolio at [My Portfolio](http://wuffwolfwuss.github.io/cv/)
