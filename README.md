@@ -9,7 +9,10 @@ I am a highly motivated and skilled Information Technology graduate from the Uni
 *   🌍  I'm based in Ho Chi Minh City
 *   🖥️  See my portfolio at [My Portfolio](http://wuffwolfwuss.github.io/cv/)
 *   ✉️  You can contact me at [nguyen.long.finril@gmail.com](mailto:nguyen.long.finril@gmail.com)
-*   🧠  I'm learning Next.js### Skills 
+*   🧠  I'm learning Next.js
+
+### Skills
+
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
@@ -21,12 +24,7 @@ I am a highly motivated and skilled Information Technology graduate from the Uni
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 </p>
-                    
-                  ### Socials
-                  
-                  
-                <p align="left">
-                          
-                      <a href="https://www.github.com/WuffWolfWuss" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.linkedin.com/in/long-nguyen-73b008280/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/WuffWolfWuss" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/long-nguyen-73b008280/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
