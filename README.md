@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nguyen Thanh Long
 =========================================================================================================================================
 
-Back-end Developer
+Fullstack Developer
 ------------------
 
 I am a highly motivated and skilled Information Technology graduate from the University of Transport in Ho Chi Minh City. My academic journey was mostly focus on Java based programing but I also gaining a solid foundation in various aspects of the field like SQL, HTML, Javascript,... 
