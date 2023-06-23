@@ -13,7 +13,7 @@ In pursuit of continuous learning and personal growth, I have further expanded m
 *   🌍  I'm based in Ho Chi Minh City
 *   🖥️  See my portfolio at [My Portfolio](http://wuffwolfwuss.github.io/cv/)
 *   ✉️  You can contact me at [nguyen.long.finril@gmail.com](mailto:nguyen.long.finril@gmail.com)
-*   🧠  I'm learning Next.js
+*   🧠  I'm learning TypeScript
 
 ### Skills
 
